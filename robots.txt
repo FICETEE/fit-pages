@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ficetee.github.io/fit-pages/sitemap.xml
